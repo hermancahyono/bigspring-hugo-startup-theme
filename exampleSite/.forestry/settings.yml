@@ -32,7 +32,7 @@ sections:
   label: Contact
 - type: document
   path: exampleSite/content/pricing/_index.md
-  label: Pricing
+  label: Lembaga
 - type: document
   path: exampleSite/content/privacy-policy/_index.md
   label: Privacy Policy
