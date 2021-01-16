@@ -7,7 +7,7 @@ banner:
     laborum officiis necessitatibus
   button:
     enable: true
-    label: Contact With Us
+    label: Registrasi
     link: contact
 feature:
   enable: true
