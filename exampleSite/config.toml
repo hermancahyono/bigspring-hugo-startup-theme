@@ -11,47 +11,56 @@ title = "Pondok Pesantren Miftahul Mubtadi'in"
 unsafe = true
 [[menu.footer_left]]
 URL = "#"
-name = "About Us"
-[[menu.footer_left]]
-URL = "#"
 name = "Quick Start"
+weight = 2
 [[menu.footer_left]]
 URL = "pricing"
 name = "Pricing"
-[[menu.footer_middle]]
-URL = "pricing"
-name = "Pricing"
-[[menu.footer_middle]]
+weight = 1
+[[menu.footer_left]]
 URL = "#"
-name = "Platform"
+name = "About Us"
+weight = 3
 [[menu.footer_middle]]
 URL = "#"
 name = "Features"
-[[menu.footer_right]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-[[menu.footer_right]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
+weight = 1
+[[menu.footer_middle]]
+URL = "#"
+name = "Platform"
+weight = 2
+[[menu.footer_middle]]
+URL = "pricing"
+name = "Pricing"
+weight = 3
 [[menu.footer_right]]
 URL = "faq"
 name = "FAQ"
-[[menu.main]]
-URL = "blog"
-name = "Blog"
 weight = 1
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
+[[menu.footer_right]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
 weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
+[[menu.footer_right]]
+URL = "privacy-policy"
+name = "Privacy Policy"
 weight = 3
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
 weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "pricing"
+name = "Lembaga"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 1
 [params]
 author = "Themefisher"
 contact_form_action = "#"
