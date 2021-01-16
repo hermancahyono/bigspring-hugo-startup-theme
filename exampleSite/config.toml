@@ -11,60 +11,51 @@ title = "Pondok Pesantren Miftahul Mubtadi'in"
 unsafe = true
 [[menu.footer_left]]
 URL = "#"
+name = "About Us"
+[[menu.footer_left]]
+URL = "#"
 name = "Quick Start"
-weight = 2
 [[menu.footer_left]]
 URL = "pricing"
 name = "Pricing"
-weight = 1
-[[menu.footer_left]]
-URL = "#"
-name = "About Us"
-weight = 3
 [[menu.footer_middle]]
-URL = "#"
-name = "Features"
-weight = 1
+URL = "pricing"
+name = "Pricing"
 [[menu.footer_middle]]
 URL = "#"
 name = "Platform"
-weight = 2
 [[menu.footer_middle]]
-URL = "pricing"
-name = "Pricing"
-weight = 3
-[[menu.footer_right]]
-URL = "faq"
-name = "FAQ"
-weight = 1
-[[menu.footer_right]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 2
+URL = "#"
+name = "Features"
 [[menu.footer_right]]
 URL = "privacy-policy"
 name = "Privacy Policy"
-weight = 3
-[[menu.main]]
+[[menu.footer_right]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+[[menu.footer_right]]
 URL = "faq"
 name = "FAQ"
-weight = 4
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 1
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 3
 [[menu.main]]
-URL = "pricing"
-name = "Lembaga"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
+URL = "faq"
+name = "FAQ"
+weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Herman Cahyono](https://twitter.com/hermancahyono3/)"
 description = "This is meta description"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 footer_menu_left = "Company"
